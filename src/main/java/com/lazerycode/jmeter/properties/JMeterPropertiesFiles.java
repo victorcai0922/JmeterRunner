@@ -4,7 +4,7 @@ package com.lazerycode.jmeter.properties;
  * An Enum holding a list of JMeter properties files.
  * If it is set to true JMeter expects it to be in the bin dir.
  *
- * @author Mark Collin
+ * @author caiqiuliang
  */
 public enum JMeterPropertiesFiles {
 

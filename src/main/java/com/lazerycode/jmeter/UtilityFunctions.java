@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * Series of useful utility functions to make life easy
  *
- * @author Mark Collin
+ * @author caiqiuliang
  */
 @SuppressWarnings("RedundantIfStatement")
 public class UtilityFunctions {

@@ -1,4 +1,9 @@
 package com.lazerycode.jmeter.threadhandling;
+/**
+ * 
+ * @author caiqiuliang
+ *
+ */
 
 public class JMeterPluginUncaughtExceptionHandler implements Thread.UncaughtExceptionHandler
 {

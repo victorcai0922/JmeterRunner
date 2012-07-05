@@ -11,7 +11,7 @@ import java.io.IOException;
 /**
  * Handles checking a JMeter results file in XML format for errors and failures.
  *
- * @author Jon Roberts
+ * @author caiqiuliang
  */
 public class ErrorScanner {
 

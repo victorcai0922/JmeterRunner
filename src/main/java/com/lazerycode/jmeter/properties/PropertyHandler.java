@@ -21,7 +21,7 @@ import java.util.jar.JarFile;
 /**
  * Handler to deal with properties file creation.
  *
- * @author Arne Franken, Mark Collin
+ * @author caiqiuliang
  */
 public class PropertyHandler extends JMeterMojo {
 

@@ -4,7 +4,9 @@ import java.security.Permission;
 
 /**
  * Capture System.exit commands so that we can check to see if JMeter is trying to kill us without warning.
+    @author caiqiuliang
  */
+
 public class JMeterPluginSecurityManager extends SecurityManager {
     @Override
     public void checkExit(int status) {

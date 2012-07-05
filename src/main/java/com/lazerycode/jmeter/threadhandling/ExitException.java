@@ -1,5 +1,11 @@
 package com.lazerycode.jmeter.threadhandling;
 
+/**
+ * 
+ * @author caiqiuliang
+ *
+ */
+
 public class ExitException extends SecurityException {
 
     public int status;

@@ -8,6 +8,7 @@ import java.util.List;
 /**
  * Compare filenames based on their order in a list of includes (using default
  * ant include pattern).
+ * @author caiqiuliang
  */
 public class IncludesComparator implements Comparator<String> {
     private final List<String> includes;

@@ -3,7 +3,7 @@ package com.lazerycode.jmeter.configuration;
 /**
  * An Enum holding all of the command line arguments accepted by JMeter
  *
- * @author Mark Collin
+ * @author caiqiuliang
  */
 public enum JMeterCommandLineArguments {
 

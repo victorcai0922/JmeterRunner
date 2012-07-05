@@ -16,7 +16,7 @@ package com.lazerycode.jmeter.configuration;
  * }
  * </pre>
  *
- * @author Arne Franken
+ * @author caiqiuliang
  */
 public class RemoteConfiguration {
 

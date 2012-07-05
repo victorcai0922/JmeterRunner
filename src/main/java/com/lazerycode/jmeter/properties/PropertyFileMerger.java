@@ -8,7 +8,7 @@ import java.util.Properties;
 /**
  * Handler that can merge Properties objects and Maps
  *
- * @author Arne Franken, Mark Collin
+ * @author caiqiuliang
  */
 public class PropertyFileMerger extends JMeterMojo {
 

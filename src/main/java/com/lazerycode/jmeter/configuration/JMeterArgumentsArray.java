@@ -11,7 +11,7 @@ import java.util.*;
 /**
  * Creates an arguments array to pass to the JMeter object to run tests.
  *
- * @author Mark Collin
+ * @author caiqiuliang
  */
 public class JMeterArgumentsArray {
 

@@ -5,6 +5,7 @@ package com.lazerycode.jmeter.threadhandling;
  * The plugin will then wait for the thread to finish
  * TODO: find out which threadname works for GUI detection on other operating systems
  * TODO: #GUI_THREAD_LINUX was found on a Mint 12 (Ubuntu) with Gnome desktop. is this universal for Linux?
+ * @author caiqiuliang
  */
 public enum JMeterThreads {
 

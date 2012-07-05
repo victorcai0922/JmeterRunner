@@ -4,7 +4,7 @@ package com.lazerycode.jmeter.properties;
  * An Enum holding a list of reserved properties.
  * Properties configured here may not be set by client configuration.
  *
- * @author Mark Collin
+ * @author caiqiuliang
  */
 public enum ReservedProperties {
 

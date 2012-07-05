@@ -10,7 +10,7 @@ import com.lazerycode.jmeter.testrunner.TestManager;
 /**
  * JMeter Maven plugin.
  *
- * @author Tim McCune
+ * @author caiqiuliang
  * @goal jmeter
  * @requiresProject true
  */

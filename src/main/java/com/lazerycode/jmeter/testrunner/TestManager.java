@@ -17,6 +17,7 @@ import java.util.List;
 
 /**
  * TestManager encapsulates functions that gather JMeter Test files and execute the tests
+ * @author caiqiuliang
  */
 public class TestManager extends JMeterMojo {
 

@@ -25,7 +25,7 @@ import java.util.jar.JarFile;
  * JMeter Maven plugin.
  * This is a base class for the JMeter mojos.
  *
- * @author Tim McCune
+ * @author caiqiuliang
  */
 @SuppressWarnings({"UnusedDeclaration", "FieldCanBeLocal", "JavaDoc"}) // Mojos get their fields set via reflection
 public abstract class JMeterAbstractMojo extends AbstractMojo {

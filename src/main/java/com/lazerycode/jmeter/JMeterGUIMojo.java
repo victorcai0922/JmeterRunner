@@ -7,7 +7,7 @@ import org.apache.maven.plugin.MojoFailureException;
 /**
  * JMeter Maven plugin.
  *
- * @author Jarrod Ribble
+ * @author caiqiuliang
  * @goal gui
  * @requiresProject true
  */

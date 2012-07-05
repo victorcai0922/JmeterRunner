@@ -2,8 +2,15 @@ package com.lazerycode.jmeter.properties;
 
 import org.apache.maven.plugin.MojoExecutionException;
 
+
 import java.util.Map;
 import java.util.Properties;
+
+/**
+ * 
+ * @author caiqiuliang
+ *
+ */
 
 public class PropertyContainer {
 
