@@ -128,6 +128,7 @@ public abstract class JMeterAbstractMojo extends AbstractMojo {
      * Absolute path to JMeter custom (test dependent) properties file.
      *
      * @parameter
+     * 
      */
     protected File customPropertiesFile;
 

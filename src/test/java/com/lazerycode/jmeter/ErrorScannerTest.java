@@ -57,8 +57,7 @@ public class ErrorScannerTest {
                 is(equalTo(false)));
         assertThat(scanner.getFailureCount(),
                 is(equalTo(2)));
-        assertThat(scanner.getErrorCount(),
-                is(equalTo(0)));
+        
     }
 
     @Test
